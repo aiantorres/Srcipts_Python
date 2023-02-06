@@ -1,2 +1,2 @@
-# Srcipts_Python
+# Scripts_Python
  Scripts de Python
